@@ -2,15 +2,11 @@
 *{
     font-family: "Poppins", sans-serif;
 }
-/* body{
-    height: 100vh;
-} */
 section{
     display: flex;
     justify-content: center;
     padding: 10px;
     padding-bottom: 80px;
-    /* width: 80%; */
 }
 /* -----left----- */
 .left .left-top{
@@ -229,19 +225,14 @@ section{
     display: flex;
     flex-direction: column;
 }
-/* .left .left-expertise .{} */
 /* -----right---- */
 .right {
-    /* background-color: rgb(222, 220, 220); */
     width: 55%;
 }
 .right .right-intro{
     background-color: rgb(232, 229, 229);
     padding: 20px 60px 30px 60px;
 }
-/* .right .right-intro .intro-name{
-    margin-top: -20px;
-} */
 .right .right-intro .intro-name h1{
     font-size: 4.4rem;
     letter-spacing: 4px;
@@ -269,7 +260,6 @@ section{
     width: 85%;
     line-height: 32px;
 }
-
 .right .work-experience{
     background-color: white;
     padding: 60px 60px 0px 60px;
